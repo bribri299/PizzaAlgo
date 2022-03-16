@@ -1,3 +1,5 @@
-Dcide pizza place
-2. Order pizza
-3. Eat pizza
+1. Decide pizza place
+2. Pick Pizza Topping
+3. Order pizza
+4. Eat pizza
+5. Share with fam
